@@ -1,0 +1,15 @@
+.layout_sidebar_menu {
+    height: 100%;
+}
+
+.layouts_sidebar {
+    height: 100%;
+    display: flex;
+}
+
+.layouts_outlet {
+    padding-left: 100px;
+    padding-right: 50px;
+    width: 100%;
+    overflow: hidden;
+}

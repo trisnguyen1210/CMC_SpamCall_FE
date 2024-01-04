@@ -1,0 +1,26 @@
+.homepage_modal_input_name {
+    padding: 20px 0px;
+}
+
+.homepage_modal_input {
+    width: 100%;
+    justify-content: center;
+    text-align: start;
+    margin: 0 auto;
+}
+
+.homepage_modal_input_file {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 16px;
+    text-align: center;
+}
+
+.homepage_modal_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}

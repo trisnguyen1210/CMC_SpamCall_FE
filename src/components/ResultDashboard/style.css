@@ -1,0 +1,21 @@
+.result-dashboard_data {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    /* Adjust the max-width as needed */
+}
+
+.result-dashboard_background {
+    background-color: #FFE7C1;
+    /* Màu xám của terminal */
+    max-width: 100%;
+    padding: 20px 40px;
+    border-radius: 20px;
+    /* Thêm padding để tạo khoảng trắng xung quanh nội dung */
+}
+
+.result-dashboard_btn {
+    display: flex;
+    justify-content: end;
+    padding-top: 10px;
+}
